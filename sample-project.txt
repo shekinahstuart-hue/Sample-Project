@@ -1,0 +1,6 @@
+2024-01-15, Georgetown Hospital, maternal death, postpartum hemorrhage
+2024-02-20, Diamond Hospital, maternal death, eclampsia
+2024-03-10, Georgetown Hospital, maternal death, sepsis
+2024-04-05, Woodlands Hospital, maternal death, postpartum hemorrhage
+2024-05-12, Georgetown Hospital, live birth, normal delivery
+2024-06-18, Diamond Hospital, maternal death, eclampsia
